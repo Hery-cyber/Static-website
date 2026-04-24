@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Modern residential construction</title>
+  <desc id="desc">Illustrated modern house exterior with warm architectural details.</desc>
+  <defs>
+    <linearGradient id="sky1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8d8b8"/>
+      <stop offset="100%" stop-color="#f3f1eb"/>
+    </linearGradient>
+    <linearGradient id="wall1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0e4d7"/>
+      <stop offset="100%" stop-color="#cfb49b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky1)"/>
+  <rect y="690" width="1600" height="310" fill="#a7b694"/>
+  <rect x="220" y="350" width="700" height="340" rx="18" fill="url(#wall1)"/>
+  <rect x="860" y="290" width="520" height="400" rx="18" fill="#efe9e2"/>
+  <rect x="310" y="250" width="420" height="120" rx="10" fill="#3e342d"/>
+  <rect x="930" y="210" width="350" height="90" rx="10" fill="#4a4038"/>
+  <rect x="300" y="450" width="180" height="170" rx="10" fill="#8f6d56"/>
+  <rect x="540" y="430" width="260" height="150" rx="10" fill="#7fb0c9"/>
+  <rect x="960" y="400" width="180" height="220" rx="10" fill="#7fb0c9"/>
+  <rect x="1190" y="400" width="120" height="220" rx="10" fill="#90705c"/>
+  <path d="M0 735C240 690 480 700 720 744S1200 820 1600 735V1000H0Z" fill="#839670"/>
+  <circle cx="1370" cy="150" r="72" fill="#ffffff" opacity="0.7"/>
+</svg>
